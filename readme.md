@@ -1,20 +1,32 @@
 8.7G	#Single (2025)
 
+13G	0 (Zero) (2018)
+
 5.5G	1 Nenokkadine (2014)
 
 4.9G	100% Love (2011)
 
 4.5G	12 Strong (2018)
 
-2.6G	18 Pages (2022)
+5.1G	12th Fail (2023)
+
+3.9G	18 Pages (2022)
 
 4.8G	2.0 (2018)
 
-4.9G	2012 (2009)
+11G	2012 (2009)
 
-17G	3 (2012)
+21G	3 (2012)
+
+13G	3 Idiots (2009)
+
+8.1G	500 Days of Summer (2009)
+
+6.1G	8 Vasantalu (2025)
 
 2.3G	A Aa (2016)
+
+6.9G	A Brilliant Young Mind (2014)
 
 7.6G	A Minecraft Movie (2025)
 
@@ -28,11 +40,17 @@
 
 6.0G	Aadavari Matalaku Arthale Verule (2007)
 
+4.3G	Aakaasam Nee Haddhu Ra (2020)
+
+9.0G	Aarya 2 (2009)
+
+7.9G	Aashiqui 2 (2013)
+
 3.3G	Aavesham (2024)
 
 2.5G	ABCD꞉ American Born Confused Desi (2019)
 
-3.0G	Acharya (2022)
+4.8G	Acharya (2022)
 
 7.9G	Ad Astra (2019)
 
@@ -54,13 +72,15 @@
 
 2.7G	Amaran (2024)
 
+2.1G	Anaganaga O Dheerudu (2011)
+
 11G	Andala Rakshasi (2012)
 
 5.3G	Angel Has Fallen (2019)
 
 9.8G	Animal (2023)
 
-1.8G	Annabelle (2014)
+6.6G	Annabelle (2014)
 
 6.5G	Antariksham 9000KMPH (2018)
 
@@ -84,6 +104,8 @@
 
 6.0G	Athadu (2005)
 
+4.9G	Atrangi Re (2021)
+
 5.1G	Attarintiki Daaredi (2013)
 
 4.2G	Avatar (2009) [EXTENDED CUT]
@@ -104,19 +126,27 @@
 
 6.8G	Baahubali 1꞉ The Beginning (2015)
 
-4.9G	Baahubali 2꞉ The Conclusion (2017)
+13G	Baahubali 2꞉ The Conclusion (2017)
 
 4.8G	Baby (2023)
+
+6.1G	Baby John (2024)
 
 4.4G	Badrinath (2011)
 
 6.9G	Bagheera (2024)
+
+5.8G	Ballerina꞉ From The World of John Wick (2025)
 
 4.4G	Bangarraju (2022)
 
 6.0G	Barbie (2023)
 
 3.0G	Basanti (2014)
+
+7.7G	Batman Begins (2005)
+
+14G	Batman v Superman꞉ Dawn of Justice (2016)
 
 4.4G	Beast (2022)
 
@@ -125,6 +155,8 @@
 3.4G	Ben 10꞉ Secret of the Omnitrix (2007)
 
 3.6G	Bhaagamathie (2018)
+
+10G	Bhadram (2014)
 
 2.7G	Bhagavanth Kesari (2023)
 
@@ -141,6 +173,8 @@
 4.2G	Black Panther (2018)
 
 3.3G	Black Panther꞉ Wakanda Forever (2022)
+
+6.3G	Black Widow (2021)
 
 4.0G	Blue Beetle (2023)
 
@@ -186,6 +220,8 @@
 
 2.1G	Check (2021)
 
+12G	Chennai Express (2013)
+
 3.0G	Chi La Sow (2018)
 
 4.0G	Chinnadana Nee Kosam (2014)
@@ -204,7 +240,7 @@
 
 3.1G	Daddy's Home (2015)
 
-2.1G	Daddy's Home 2 (2017)
+3.9G	Daddy's Home 2 (2017)
 
 5.5G	Damarukam (2012)
 
@@ -212,7 +248,9 @@
 
 4.8G	Darbar (2020)
 
-4.3G	Dark Phoenix (2019)
+7.9G	Dark Phoenix (2019)
+
+7.8G	Dark Waters (2019)
 
 5.1G	Darling (2010)
 
@@ -222,25 +260,33 @@
 
 6.2G	Deadpool & Wolverine (2024)
 
-3.9G	Dear Comrade (2019)
+9.9G	Dear Comrade (2019)
 
 3.4G	Deepwater Horizon (2016)
+
+8.8G	Desamuduru (2007)
 
 2.4G	Devadas (2018)
 
 6.8G	Devara꞉ Part 1 (2024)
 
+11G	Dhadak (2018)
+
 3.1G	Dhamaka (2022)
+
+14G	Dhoom 3 (2013)
 
 4.6G	Dhruva (2016)
 
-2.0G	DJ Tillu (2022)
+7.9G	Dil Bechara (2020)
+
+3.1G	DJ Tillu (2022)
 
 4.8G	DJ Tillu 2 (2024)
 
 3.5G	DJ꞉ Duvvada Jagannadham (2017)
 
-2.7G	Doctor (2021)
+3.2G	Doctor (2021)
 
 2.4G	Doctor Strange (2016)
 
@@ -268,7 +314,11 @@
 
 4.9G	Eega (2012)
 
-2.8G	Ek Villain Returns (2022)
+11G	Ek Villain (2014)
+
+4.4G	Ek Villain Returns (2022)
+
+6.1G	Endukante... Premanta! (2012)
 
 2.4G	Enola Holmes (2020)
 
@@ -291,6 +341,8 @@
 3.6G	F3꞉ Fun And Frustration (2022)
 
 2.8G	F9꞉ The Fast Saga (2021)
+
+11G	Fan (2016)
 
 7.6G	Fanaa (2006)
 
@@ -319,6 +371,10 @@
 2.5G	Free Guy (2021)
 
 1.5G	Gaami (2024)
+
+10G	Gabbar Is Back (2015)
+
+11G	Gabbar Singh (2012)
 
 4.9G	Gaganam (2011)
 
@@ -360,6 +416,8 @@
 
 5.5G	Govindudu Andarivadele (2014)
 
+6.5G	Gran Turismo (2023)
+
 6.1G	Green Lantern (2011)
 
 5.2G	Greenland (2020)
@@ -370,7 +428,7 @@
 
 3.0G	Guardians of the Galaxy꞉ Vol. 3 (2023)
 
-5.5G	Guntur Kaaram (2024)
+6.9G	Guntur Kaaram (2024)
 
 3.5G	Guru (2017)
 
@@ -378,7 +436,11 @@
 
 3.8G	HanuMan (2024)
 
+14G	Happy New Year (2014)
+
 2.7G	Harom Hara (2024)
+
+8.0G	Heads of State (2025)
 
 2.4G	Heart Attack (2014)
 
@@ -388,7 +450,7 @@
 
 3.2G	Hello! (2017)
 
-6.2G	Hi Nanna (2023)
+6.9G	Hi Nanna (2023)
 
 5.5G	HIT꞉ The 1st Case (2020)
 
@@ -406,9 +468,13 @@
 
 1.7G	Ichata Vahanamulu Niluparadu (2021)
 
+13G	Iddarammayilatho (2013)
+
 6.9G	Inception (2010)
 
 2.5G	Indiana Jones And The Dial Of Destiny (2023)
+
+8.9G	Infinite (2021)
 
 2.8G	Instant Family (2018)
 
@@ -436,9 +502,11 @@
 
 2.4G	Jack Reacher꞉ Never Go Back (2016)
 
+7.2G	Jagame Thandhiram (2021)
+
 5.3G	Jai Lava Kusa (2017)
 
-5.5G	Jailer (2023)
+8.6G	Jailer (2023)
 
 6.3G	Jalsa (2008)
 
@@ -448,7 +516,7 @@
 
 3.7G	Jathi Ratnalu (2021)
 
-5.6G	Jawan (2023) [EXTENDED CUT]
+8.3G	Jawan (2023) [EXTENDED CUT]
 
 5.2G	Jersey (2019)
 
@@ -464,9 +532,9 @@
 
 4.9G	Josh (2009)
 
-2.8G	Journey 2꞉ The Mysterious Island (2012)
+6.0G	Journey 2꞉ The Mysterious Island (2012)
 
-2.8G	Julayi (2012)
+11G	Julayi (2012)
 
 2.4G	Jumanji꞉ The Next Level (2019)
 
@@ -486,9 +554,9 @@
 
 3.2G	Kaithi (2019)
 
-3.2G	Kalki꞉ 2898 AD (2024)
+14G	Kalki꞉ 2898 AD (2024)
 
-3.9G	Kanmani Rambo Khatija (2022)
+4.1G	Kanmani Rambo Khatija (2022)
 
 8.2G	Kantara꞉ A Legend (2022)
 
@@ -501,6 +569,10 @@
 5.0G	Khaleja (2010)
 
 3.8G	Khiladi (2022)
+
+6.4G	Kick (2009)
+
+7.6G	Kick 2 (2015)
 
 4.3G	King Of Kotha (2023)
 
@@ -518,17 +590,25 @@
 
 2.9G	Krishnarjuna Yudham (2018)
 
+12G	Krrish 3 (2013)
+
 4.0G	Kshanam (2016)
 
 3.2G	Kushi (2023)
 
 3.2G	Laila (2025)
 
+13G	Leader (2010)
+
 7.4G	Leo (2023)
 
 3.0G	LIE (2017)
 
+6.1G	Life of Pi (2012)
+
 3.4G	Liger꞉ Saala Crossbreed (2022)
+
+4.6G	Lightyear (2022)
 
 4.2G	London Has Fallen (2016)
 
@@ -544,7 +624,7 @@
 
 2.8G	Lover (2024)
 
-3.4G	Lucky Baskhar (2024)
+6.5G	Lucky Baskha₹ (2024)
 
 3.9G	M3GAN (2023)
 
@@ -560,7 +640,11 @@
 
 3.3G	Maestro (2021)
 
+6.9G	Magadheera (2009)
+
 4.5G	Maha Samudram (2021)
+
+4.8G	Mahanubhavudu (2017)
 
 5.8G	Maharshi (2019)
 
@@ -569,6 +653,8 @@
 3.8G	Major (2022)
 
 5.3G	Malang (2020)
+
+12G	Man of Steel (2013)
 
 5.1G	Manam (2014)
 
@@ -582,15 +668,17 @@
 
 3.7G	Masala (2013)
 
-3.9G	MASTER (2021)
+6.6G	MASTER (2021)
 
 4.8G	MCA꞉ Middle Class Abbayi (2017)
 
 3.0G	Mechanic Rocky (2024)
 
+4.0G	Meesaya Murukku (2017)
+
 8.8G	Midway (2019)
 
-4.5G	Mirchi (2013)
+12G	Mirchi (2013)
 
 2.5G	Mission꞉ Impossible - Dead Reckoning Part 1 (2023)
 
@@ -618,6 +706,8 @@
 
 2.8G	Naa Saami Ranga (2024)
 
+9.5G	Naanum Rowdy Dhaan (2015)
+
 5.4G	Nannaku Prematho (2016)
 
 2.0G	National Treasure (2004)
@@ -631,6 +721,8 @@
 3.0G	Nenu Local (2017)
 
 4.9G	Nenu Sailaja (2016)
+
+0	New folder
 
 2.0G	Ninnila Ninnila (2021)
 
@@ -668,6 +760,8 @@
 
 6.9G	Paper Towns (2015)
 
+5.3G	Pathaan (2023)
+
 6.7G	Pattudala (2025)
 
 4.1G	Pelli Choopulu (2016)
@@ -683,6 +777,8 @@
 3.6G	Pirates of the Caribbean꞉ The Curse of the Black Pearl (2003)
 
 2.6G	Pixels (2015)
+
+3.3G	Pizza (2012)
 
 2.4G	Plane (2023)
 
@@ -708,7 +804,11 @@
 
 4.8G	Pushpa꞉ The Rule - Part 2 (2024) [RELOADED VERSION]
 
-5.1G	Raanjhanaa (2013)
+12G	Ra. One (2011)
+
+11G	Raanjhanaa (2013)
+
+8.1G	Raavanan (2010)
 
 3.8G	Rab Ne Bana Di Jodi (2008)
 
@@ -718,11 +818,15 @@
 
 8.0G	Radhe Shyam (2022)
 
-4.8G	Ragada (2010)
+12G	Raees (2017)
+
+9.7G	Ragada (2010)
 
 4.1G	Raghuvaran B.Tech (2014)
 
 4.2G	Raja The Great (2017)
+
+2.3G	Raju Gari Gadhi 2 (2017)
 
 7.3G	Rakshasudu (2015)
 
@@ -740,11 +844,13 @@
 
 9.0G	Ravanasura (2023)
 
-2.3G	Ready Player One (2018)
+8.9G	Ready Player One (2018)
 
 4.4G	Real Steel (2011)
 
 3.3G	Red (2010)
+
+3.2G	RED (2021)
 
 2.3G	Red Notice (2021)
 
@@ -768,7 +874,7 @@
 
 3.8G	Rockstar (2011)
 
-6.0G	RRR (2022)
+11G	RRR (2022)
 
 3.7G	Run Raja Run (2014)
 
@@ -778,13 +884,15 @@
 
 3.0G	Saindhav (2024)
 
-3.9G	Salaar꞉ Part 1 - Ceasefire (2023)
+10G	Salaar꞉ Part 1 - Ceasefire (2023)
 
 3.6G	Sammathame (2022)
 
 2.7G	Sammohanam (2018)
 
 3.3G	San Andreas (2015)
+
+13G	Sanju (2018)
 
 2.9G	Sankranthiki Vasthunam (2025)
 
@@ -800,13 +908,17 @@
 
 5.3G	Sarocharu (2013)
 
-3.7G	Sarrainodu (2016)
+8.9G	Sarrainodu (2016)
 
 3.1G	Sathyam Sundaram (2024)
 
 3.2G	Saw X (2023)
 
-1.7G	Scream VI (2023)
+9.7G	Scream (2022)
+
+7.9G	Scream VI (2023)
+
+12G	Secret Superstar (2017)
 
 7.2G	Seethamma Vakitlo Sirimalle Chettu (2013)
 
@@ -814,7 +926,9 @@
 
 2.5G	Sehari (2022)
 
-2.3G	Shailaja Reddy Alludu (2021)
+2.3G	Shailaja Reddy Alludu (2018)
+
+8.3G	Shamitabh (2015)
 
 2.8G	Shang-Chi and the Legend of the Ten Rings (2021)
 
@@ -825,6 +939,8 @@
 2.9G	Sherlock Holmes (2009)
 
 5.1G	Shivam (2015)
+
+5.6G	Shotgun Wedding (2022)
 
 7.7G	Shyam Singha Roy (2021)
 
@@ -846,9 +962,9 @@
 
 1.3G	Solo Brathuke So Better (2020)
 
-3.5G	Son of Satyamurthy (2015)
+13G	Son of Satyamurthy (2015)
 
-2.4G	Sonic꞉ The Hedgehog 1 (2020)
+3.7G	Sonic꞉ The Hedgehog 1 (2020)
 
 6.3G	Sonic꞉ The Hedgehog 2 (2022)
 
@@ -880,11 +996,19 @@
 
 5.2G	Srirastu Subhamastu (2016)
 
+4.7G	Stree (2018)
+
+9.6G	Street Dancer 3D (2020)
+
+6.4G	Student of the Year (2012)
+
 10G	Subham (2025)
 
 2.9G	Supreme (2016)
 
 3.1G	Tadap (2021)
+
+5.6G	Taken (2008) [EXTENDED CUT]
 
 3.1G	Tegimpu (2023)
 
@@ -918,13 +1042,19 @@
 
 4.0G	The Beekeeper (2024)
 
+7.7G	The Commuter (2018)
+
 2.3G	The Conjuring (2013)
 
 3.0G	The Conjuring 2 (2016)
 
 2.3G	The Conjuring 3∶ The Devil Made Me Do It (2021)
 
-3.0G	The Dark Knight (2008)
+7.9G	The Covenant (2023)
+
+8.4G	The Dark Knight (2008)
+
+7.7G	The Dark Knight Rises (2012)
 
 3.0G	The Equalizer (2014)
 
@@ -940,7 +1070,7 @@
 
 2.8G	The Flash (2023)
 
-4.6G	The Gentlemen (2020)
+7.8G	The Gentlemen (2020)
 
 3.1G	The Ghost (2022)
 
@@ -951,6 +1081,8 @@
 2.4G	The Invisible Man (2020)
 
 2.0G	The Man from U.N.C.L.E (2015)
+
+6.9G	The Man Who Knew Infinity (2015)
 
 6.9G	The Map of Tiny Perfect Things (2021)
 
@@ -970,11 +1102,15 @@
 
 2.8G	The Ministry of Ungentlemanly Warfare (2024)
 
-4.4G	The Mummy (2017)
+8.1G	The Mummy (2017)
 
 2.8G	The Nun (2018)
 
-2.2G	The Nun II (2023)
+8.1G	The Nun II (2023)
+
+4.8G	The Old Guard (2020)
+
+4.8G	The Old Guard 2 (2025)
 
 1.4G	The Pope's Exorcist (2023)
 
@@ -990,6 +1126,8 @@
 
 3.0G	The Taking of Pelham 123 (2009)
 
+9.6G	The Time Traveler's Wife (2009)
+
 9.0G	The Tomorrow War (2021)
 
 2.4G	The Unholy (2021)
@@ -1002,7 +1140,7 @@
 
 2.2G	Thiru (2022)
 
-4.1G	Tholi Prema (2018)
+7.8G	Tholi Prema (2018)
 
 5.1G	Thor (2011)
 
@@ -1011,6 +1149,10 @@
 2.7G	Thor꞉ Ragnarok (2017)
 
 4.2G	Thudarum (2025)
+
+7.5G	Thug Life (2025)
+
+9.5G	Thunderbolts - The New Avengers (2025)
 
 5.0G	Thuppakki (2012)
 
@@ -1026,7 +1168,7 @@
 
 3.2G	Tourist Family (2025)
 
-4.0G	Transformers 4꞉ Age of Extinction (2014)
+16G	Transformers 4꞉ Age of Extinction (2014)
 
 2.7G	Transformers 5∶ The Last Knight (2017)
 
@@ -1034,15 +1176,19 @@
 
 8.0G	TRAP (2024)
 
-1.9G	True Memoirs of an International Assassin (2016)
+6.5G	True Memoirs of an International Assassin (2016)
 
 3.1G	Tu Jhoothi Main Makkar (2023)
 
 4.1G	Tuck Jagadish (2021)
 
+7.4G	Twilight (2009)
+
 6.2G	Twister (1996)
 
 4.8G	Twisters (2024)
+
+7.7G	U Turn (2018)
 
 5.8G	Uncharted (2022)
 
@@ -1050,7 +1196,7 @@
 
 2.3G	Unstoppable (2010)
 
-2.0G	Upgrade (2018)
+7.0G	Upgrade (2018)
 
 3.2G	Uppena (2021)
 
@@ -1066,7 +1212,7 @@
 
 3.2G	Varudu Kaavalenu (2021)
 
-3.1G	Vedam (2010)
+13G	Vedam (2010)
 
 4.2G	Veera Simha Reddy (2023)
 
@@ -1074,9 +1220,9 @@
 
 4.1G	Venom 2∶ Let There Be Carnage (2021)
 
-6.3G	Venom 3∶ The Last Dance (2024)
+7.2G	Venom 3∶ The Last Dance (2024)
 
-3.7G	Vettaiyan꞉ The Hunter (2024)
+12G	Vettaiyan꞉ The Hunter (2024)
 
 8.6G	Vikram (2022)
 
@@ -1096,9 +1242,9 @@
 
 2.7G	Wonder Woman (2017)
 
-2.0G	World Famous Lover (2020)
+5.1G	World Famous Lover (2020)
 
-2.4G	World War Z (2013) [UNRATED CUT]
+6.6G	World War Z (2013) [UNRATED CUT]
 
 4.2G	WW84 (2020)
 
