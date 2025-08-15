@@ -12,11 +12,11 @@
 
 4.9G	2012 (2009)
 
-11G	3 (2012)
+17G	3 (2012)
 
 2.3G	A Aa (2016)
 
-7.1G	A Minecraft Movie (2025)
+7.6G	A Minecraft Movie (2025)
 
 4.7G	A Quiet Place (2018)
 
@@ -48,7 +48,7 @@
 
 2.8G	Akkada Ammayi Ikkada Abbayi (2025)
 
-6.1G	Ala Vaikunthapurramuloo (2020)
+7.3G	Ala Vaikunthapurramuloo (2020)
 
 2.2G	Aladdin (2019)
 
@@ -109,6 +109,8 @@
 4.8G	Baby (2023)
 
 4.4G	Badrinath (2011)
+
+6.9G	Bagheera (2024)
 
 4.4G	Bangarraju (2022)
 
@@ -206,6 +208,8 @@
 
 5.5G	Damarukam (2012)
 
+5.7G	Damsel (2024)
+
 4.8G	Darbar (2020)
 
 4.3G	Dark Phoenix (2019)
@@ -276,6 +280,8 @@
 
 3.7G	Eternals (2021)
 
+5.5G	Evil Dead Rise (2023)
+
 2.0G	Extra Ordinary Man (2023)
 
 2.8G	Extraction (2020)
@@ -338,6 +344,8 @@
 
 1.9G	Ghosted (2023)
 
+7.0G	Gifted (2017)
+
 3.2G	GOAT꞉ The Greatest Of All Time (2024)
 
 2.9G	GodFather (2022)
@@ -351,6 +359,8 @@
 4.3G	Gopala Gopala (2015)
 
 5.5G	Govindudu Andarivadele (2014)
+
+6.1G	Green Lantern (2011)
 
 5.2G	Greenland (2020)
 
@@ -396,7 +406,7 @@
 
 1.7G	Ichata Vahanamulu Niluparadu (2021)
 
-4.4G	Inception (2010)
+6.9G	Inception (2010)
 
 2.5G	Indiana Jones And The Dial Of Destiny (2023)
 
@@ -479,6 +489,8 @@
 3.2G	Kalki꞉ 2898 AD (2024)
 
 3.9G	Kanmani Rambo Khatija (2022)
+
+8.2G	Kantara꞉ A Legend (2022)
 
 2.8G	Karthikeya 2 (2022)
 
@@ -678,6 +690,8 @@
 
 2.9G	Pokémon꞉ Detective Pikachu (2019)
 
+5.2G	Prema Kavali (2010)
+
 2.9G	Premalu (2024)
 
 4.3G	Premam (2016)
@@ -702,7 +716,7 @@
 
 4.9G	Racha (2012)
 
-5.2G	Radhe Shyam (2022)
+8.0G	Radhe Shyam (2022)
 
 4.8G	Ragada (2010)
 
@@ -724,7 +738,7 @@
 
 2.7G	Rarandoi Veduka Chuddam (2017)
 
-2.7G	Ravanasura (2023)
+9.0G	Ravanasura (2023)
 
 2.3G	Ready Player One (2018)
 
@@ -744,7 +758,7 @@
 
 7.5G	RETRO (2025)
 
-4.0G	Road House (2024)
+8.7G	Road House (2024)
 
 2.3G	Robin Hood (2018)
 
@@ -764,7 +778,7 @@
 
 3.0G	Saindhav (2024)
 
-3.9G	Salaar꞉ Part 1 - Ceasefire
+3.9G	Salaar꞉ Part 1 - Ceasefire (2023)
 
 3.6G	Sammathame (2022)
 
@@ -894,6 +908,8 @@
 
 5.9G	The Age of Adaline (2015)
 
+6.3G	The Amateur (2025)
+
 4.2G	The Amazing Spider-Man 1 (2012)
 
 3.4G	The Amazing Spider-Man 2 (2014)
@@ -1006,7 +1022,7 @@
 
 4.1G	Tomb Raider (2018)
 
-2.9G	Top Gun꞉ Maverick (2022)
+11G	Top Gun꞉ Maverick (2022)
 
 3.2G	Tourist Family (2025)
 
@@ -1024,6 +1040,8 @@
 
 4.1G	Tuck Jagadish (2021)
 
+6.2G	Twister (1996)
+
 4.8G	Twisters (2024)
 
 5.8G	Uncharted (2022)
@@ -1040,7 +1058,7 @@
 
 4.3G	Vaarasudu (2023)
 
-2.4G	Vakeel Saab (2021)
+16G	Vakeel Saab (2021)
 
 4.2G	Vanakkam Chennai (2013)
 
@@ -1086,7 +1104,7 @@
 
 5.1G	X2꞉ X-Men United (2003)
 
-3.1G	X-Men (2000)
+8.9G	X-Men (2000)
 
 5.0G	X-Men Origins꞉ Wolverine (2009)
 
