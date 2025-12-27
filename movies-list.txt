@@ -78,6 +78,7 @@
 2.1G	Anaganaga O Dheerudu (2011)
 6.4G	Anatomy of a Fall (2023)
 11G	Andala Rakshasi (2012)
+7.3G	Andhra King Thaluka (2025)
 5.3G	Angel Has Fallen (2019)
 9.8G	Animal (2023)
 5.9G	Annabelle (2014)
@@ -247,6 +248,7 @@
 11G	Ek Villain (2014)
 4.4G	Ek Villain Returns (2022)
 7.6G	Elemental (2023)
+7.3G	
 7.4G	Encanto (2021)
 6.1G	Endukante... Premanta! (2012)
 10.4G	English Vinglish (2012)
@@ -256,6 +258,7 @@
 1.7G	Escape Room (2019)
 2.1G	Escape Room꞉ Tournament of Champions (2021) [THEATRICAL CUT]
 3.7G	Eternals (2021)
+7.9G	Eternity (2025)
 6.2G	Evaru (2019)
 8.2G	Everest (2015)
 5.5G	Evil Dead Rise (2023)
@@ -265,7 +268,6 @@
 11G	F1꞉ The Movie (2025) [X-RAY BONUS EDITION]
 3.6G	F2꞉ Fun And Frustration (2019)
 3.6G	F3꞉ Fun And Frustration (2022)
-2.8G	F9꞉ The Fast Saga (2021)
 4.9G	Fall (2022)
 3.4G	Falling for Christmas (2022)
 1.6G	Falling for Vermont (2017)
@@ -275,8 +277,15 @@
 3.6G	Fantastic Four (2005)
 3.4G	Fantastic Four (2015)
 4.9G	Fantastic Four꞉ Rise Of The Silver Surfer (2007)
+8.1G	Fast & Furious 1 (2001)
+8.2G	Fast & Furious 2 (2003)
+7.6G	Fast & Furious 3 (2006)
+9.9G	Fast & Furious 4 (2009)
+9.8G	Fast & Furious 5 (2011) [EXTENDED CUT]
+8.7G	Fast & Furious 6 (2013)
 8.8G	Fast & Furious 7 (2015) [EXTENDED CUT]
 8.6G	Fast & Furious 8 (2017)
+2.8G	Fast & Furious 9 (2021)
 2.4G	Fast & Furious Presents꞉ Hobbs & Shaw (2019)
 2.5G	Fast X (2023)
 4.7G	Fidaa (2017)
@@ -284,6 +293,7 @@
 11G	Final Destination꞉ Bloodlines (2025)
 9.9G	First Man (2018)
 8.2G	Five Nights at Freddy's (2023)
+6.3G	Five Nights at Freddy's 2 (2025)
 6.4G	Flight Risk (2025)
 7.4G	Flipped (2010)
 6.1G	Fly Me To The Moon (2024)
@@ -844,7 +854,7 @@
 3.2G	The Family Star (2024)
 5.3G	The Fantastic Four꞉ First Steps (2025) [IMAX]
 8.7G	The Fault in Our Stars (2014) [EXTENDED CUT]
-6.5G	The First Time (2012)
+5.9G	The First Time (2012)
 7.2G	The Founder (2016)
 2.8G	The Flash (2023)
 7.8G	The Gentlemen (2020)
@@ -860,6 +870,7 @@
 7.0G	The Jungle Book (2016)
 6.3G	The Karate Kid (2010)
 7.7G	The Karate Kid꞉ Legends (2025)
+4.3G	The Last Summer (2019)
 7.5G	The Long Walk (2025)
 8.2G	The Man from Earth (2007)
 11G	The Man from U.N.C.L.E. (2015)
