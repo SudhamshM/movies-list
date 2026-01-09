@@ -66,6 +66,7 @@
 6.0G	Agnyathavaasi (2018)
 11G	AIR (2023)
 4.2G	Akhanda (2021)
+6.5G	Akhanda 2 (2025)
 2.8G	Akkada Ammayi Ikkada Abbayi (2025)
 7.3G	Ala Vaikunthapurramuloo (2020)
 2.2G	Aladdin (2019)
@@ -297,7 +298,7 @@
 8.7G	Fast & Furious 6 (2013)
 8.8G	Fast & Furious 7 (2015) [EXTENDED CUT]
 8.6G	Fast & Furious 8 (2017)
-2.8G	Fast & Furious 9 (2021)
+7.5G	Fast & Furious 9 (2021) [DIRECTOR'S CUT]
 7.3G	Fast & Furious 10 (2023)
 2.4G	Fast & Furious Presents꞉ Hobbs & Shaw (2019)
 2.5G	Fast X (2023)
@@ -966,7 +967,8 @@
 7.8G	Tholi Prema (2018)
 5.1G	Thor (2011)
 6.0G	Thor꞉ Love and Thunder (2022)
-2.7G	Thor꞉ Ragnarok (2017)
+7.3G	Thor꞉ Ragnarok (2017) [IMAX ENHANCED]
+5.4G	Thor꞉ The Dark World (2013)
 7.3G	Those Who Wish Me Dead (2021)
 4.2G	Thudarum (2025)
 7.5G	Thug Life (2025)
@@ -990,6 +992,7 @@
 2.7G	Transformers 5∶ The Last Knight (2017)
 2.3G	Transformers 7∶ Rise of the Beasts (2023)
 8.0G	TRAP (2024)
+5.3G	Tron꞉ Ares (2025) [IMAX ENHANCED]
 7.4G	Transporter (2002)
 6.5G	True Memoirs of an International Assassin (2016)
 3.1G	Tu Jhoothi Main Makkar (2023)
@@ -1051,7 +1054,7 @@
 5.9G	Window Wonderland (2013)
 3.9G	Winner (2017)
 6.0G	Winter in Vail (2020)
-2.7G	Wonder Woman (2017)
+8.2G	Wonder Woman (2017)
 9.8G	Wonder Woman 1984 (2020) [IMAX]
 5.7G	Words on Bathroom Walls (2020)
 5.1G	World Famous Lover (2020)
@@ -1062,7 +1065,7 @@
 5.0G	X-Men Origins꞉ Wolverine (2009)
 2.8G	X-Men꞉ Apocalypse (2016)
 7.5G	X-Men꞉ Days of Future Past (2014) [ROGUE CUT]
-2.9G	X-Men꞉ First Class (2011)
+9.2G	X-Men꞉ First Class (2011)
 6.1G	X-Men꞉ The Last Stand (2006)
 6.2G	Yeh Jawaani Hai Deewani (2013)
 3.1G	Yes Day (2021)
@@ -1076,4 +1079,4 @@
 9.8G	Zindagi Na Milegi Dobara (2011)
 9.4G	Zodiac (2007) [DIRECTOR'S CUT]
 7.7G	Zombie Reddy (2021)
-2.4G	Zootopia (2016)
+5.9G	Zootopia (2016)
